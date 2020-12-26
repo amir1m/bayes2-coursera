@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#My answers to quizes
+answer*.pdf
+
+.DS_Store
